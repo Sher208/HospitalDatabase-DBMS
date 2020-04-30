@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="F:/Eclipse-20190226T005412Z-001/eclipse/eclipse/eclipse/jdbc/ojdbc7.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse-20190226T005412Z-001/eclipse/eclipse/eclipse/jdbc/rs2xml.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MAHE/Downloads/jcalendar-1.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
